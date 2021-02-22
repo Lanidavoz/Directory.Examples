@@ -1,0 +1,16 @@
+/home/scooter/App.NET/Directory.Examples/bin/Debug/net5.0/Directory.Examples
+/home/scooter/App.NET/Directory.Examples/bin/Debug/net5.0/Directory.Examples.deps.json
+/home/scooter/App.NET/Directory.Examples/bin/Debug/net5.0/Directory.Examples.runtimeconfig.json
+/home/scooter/App.NET/Directory.Examples/bin/Debug/net5.0/Directory.Examples.runtimeconfig.dev.json
+/home/scooter/App.NET/Directory.Examples/bin/Debug/net5.0/Directory.Examples.dll
+/home/scooter/App.NET/Directory.Examples/bin/Debug/net5.0/ref/Directory.Examples.dll
+/home/scooter/App.NET/Directory.Examples/bin/Debug/net5.0/Directory.Examples.pdb
+/home/scooter/App.NET/Directory.Examples/obj/Debug/net5.0/Directory.Examples.csprojAssemblyReference.cache
+/home/scooter/App.NET/Directory.Examples/obj/Debug/net5.0/Directory.Examples.GeneratedMSBuildEditorConfig.editorconfig
+/home/scooter/App.NET/Directory.Examples/obj/Debug/net5.0/Directory.Examples.AssemblyInfoInputs.cache
+/home/scooter/App.NET/Directory.Examples/obj/Debug/net5.0/Directory.Examples.AssemblyInfo.cs
+/home/scooter/App.NET/Directory.Examples/obj/Debug/net5.0/Directory.Examples.csproj.CoreCompileInputs.cache
+/home/scooter/App.NET/Directory.Examples/obj/Debug/net5.0/Directory.Examples.dll
+/home/scooter/App.NET/Directory.Examples/obj/Debug/net5.0/ref/Directory.Examples.dll
+/home/scooter/App.NET/Directory.Examples/obj/Debug/net5.0/Directory.Examples.pdb
+/home/scooter/App.NET/Directory.Examples/obj/Debug/net5.0/Directory.Examples.genruntimeconfig.cache
